@@ -1,0 +1,26 @@
+{
+  "selectionTaskSchedule" : "selectionTaskSchedule",
+  "assetSelection" : "assetSelection",
+  "securitizationRetrieveActionTaskRecord" : {},
+  "selectionAssetSelectionServiceType" : "selectionAssetSelectionServiceType",
+  "selectionPostconditions" : "selectionPostconditions",
+  "securitizationRetrieveActionTaskReference" : "SRATR776748",
+  "selectionPreconditions" : "selectionPreconditions",
+  "selectionAssetSelectionServiceName" : "selectionAssetSelectionServiceName",
+  "selectionAssetSelectionServiceInputsandOuputs" : "selectionAssetSelectionServiceInputsandOuputs",
+  "selectionAssetSelectionServiceDescription" : "selectionAssetSelectionServiceDescription",
+  "selectionAssetSelectionServiceWorkProduct" : "selectionAssetSelectionServiceWorkProduct",
+  "securitizationInstanceAnalysis" : {
+    "securitizationInstanceAnalysisParameters" : "securitizationInstanceAnalysisParameters",
+    "securitizationInstanceAnalysisReport" : {},
+    "securitizationInstanceAnalysisRecord" : {},
+    "securitizationInstanceAnalysisReportType" : "securitizationInstanceAnalysisReportType"
+  },
+  "securitizationRetrieveActionResponse" : "securitizationRetrieveActionResponse",
+  "securitizationInstanceReport" : {
+    "securitizationInstanceReportType" : "securitizationInstanceReportType",
+    "securitizationInstanceReportRecord" : {},
+    "securitizationInstanceReportParameters" : "securitizationInstanceReportParameters",
+    "securitizationInstanceReport" : {}
+  }
+}

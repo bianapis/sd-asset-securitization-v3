@@ -1,0 +1,14 @@
+{
+  "businessService" : "businessService",
+  "selectionRequestActionTaskRecord" : {},
+  "selectionRequestActionTaskReference" : "SRATR773317",
+  "securitizationTaskSchedule" : "securitizationTaskSchedule",
+  "securitizationServiceWorkProduct" : "securitizationServiceWorkProduct",
+  "selectionRequestRecordReference" : "SRRR758328",
+  "securitizationServiceInputsandOuputs" : "securitizationServiceInputsandOuputs",
+  "securitizationServiceType" : "securitizationServiceType",
+  "securitizationPreconditions" : "securitizationPreconditions",
+  "requestResponseRecord" : {},
+  "securitizationPostconditions" : "securitizationPostconditions",
+  "securitizationServiceDescription" : "securitizationServiceDescription"
+}

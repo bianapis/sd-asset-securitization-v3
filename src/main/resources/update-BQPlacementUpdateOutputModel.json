@@ -1,0 +1,14 @@
+{
+  "placementPostconditions" : "placementPostconditions",
+  "businessService" : "businessService",
+  "placementUpdateActionTaskRecord" : {},
+  "placementTaskSchedule" : "placementTaskSchedule",
+  "placementUpdateActionTaskReference" : "PUATR777632",
+  "placementServiceDescription" : "placementServiceDescription",
+  "placementPreconditions" : "placementPreconditions",
+  "updateResponseRecord" : {},
+  "placementServiceWorkProduct" : "placementServiceWorkProduct",
+  "placementServiceName" : "placementServiceName",
+  "placementServiceType" : "placementServiceType",
+  "placementServiceInputsandOuputs" : "placementServiceInputsandOuputs"
+}

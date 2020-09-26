@@ -1,0 +1,15 @@
+{
+  "businessService" : "businessService",
+  "placementServiceDescription" : "placementServiceDescription",
+  "placementServiceType" : "placementServiceType",
+  "requestResponseRecord" : {},
+  "placementPostconditions" : "placementPostconditions",
+  "placementRequestActionTaskReference" : "PRATR709814",
+  "placementTaskSchedule" : "placementTaskSchedule",
+  "placementRequestRecordReference" : "PRRR774336",
+  "placementPreconditions" : "placementPreconditions",
+  "placementServiceWorkProduct" : "placementServiceWorkProduct",
+  "placementServiceName" : "placementServiceName",
+  "placementRequestActionTaskRecord" : {},
+  "placementServiceInputsandOuputs" : "placementServiceInputsandOuputs"
+}

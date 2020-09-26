@@ -1,0 +1,14 @@
+{
+  "businessService" : "businessService",
+  "selectionExchangeActionResponse" : "selectionExchangeActionResponse",
+  "securitizationTaskSchedule" : "securitizationTaskSchedule",
+  "securitizationServiceWorkProduct" : "securitizationServiceWorkProduct",
+  "securitizationServiceInputsandOuputs" : "securitizationServiceInputsandOuputs",
+  "securitizationServiceType" : "securitizationServiceType",
+  "selectionExchangeActionTaskReference" : "SEATR718995",
+  "selectionInstanceStatus" : "selectionInstanceStatus",
+  "securitizationPreconditions" : "securitizationPreconditions",
+  "selectionExchangeActionTaskRecord" : {},
+  "securitizationPostconditions" : "securitizationPostconditions",
+  "securitizationServiceDescription" : "securitizationServiceDescription"
+}

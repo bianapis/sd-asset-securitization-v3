@@ -1,0 +1,13 @@
+{
+  "businessService" : "businessService",
+  "securitizationTaskSchedule" : "securitizationTaskSchedule",
+  "selectionUpdateActionTaskRecord" : {},
+  "securitizationServiceWorkProduct" : "securitizationServiceWorkProduct",
+  "updateResponseRecord" : {},
+  "securitizationServiceInputsandOuputs" : "securitizationServiceInputsandOuputs",
+  "selectionUpdateActionTaskReference" : "SUATR766530",
+  "securitizationServiceType" : "securitizationServiceType",
+  "securitizationPreconditions" : "securitizationPreconditions",
+  "securitizationPostconditions" : "securitizationPostconditions",
+  "securitizationServiceDescription" : "securitizationServiceDescription"
+}

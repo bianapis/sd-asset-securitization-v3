@@ -1,0 +1,24 @@
+{
+  "assetSecuritizationServicingSessionRecord" : {},
+  "assetSecuritizationServicingSessionReference" : "SSSR783215",
+  "assetSecuritizationServicingSessionStatus" : "assetSecuritizationServicingSessionStatus",
+  "assetSecuritizationActivationActionTaskReference" : "SAATR758836",
+  "assetSecuritizationServiceConfigurationRecord" : {
+    "assetSecuritizationServiceStatus" : "assetSecuritizationServiceStatus",
+    "assetSecuritizationServiceConfigurationSettingReference" : "700761",
+    "assetSecuritizationServiceAgreement" : {
+      "assetSecuritizationServiceAgreementReference" : "791202",
+      "assetSecuritizationServiceUserReference" : "767210",
+      "assetSecuritizationServiceAgreementTermsandConditions" : "assetSecuritizationServiceAgreementTermsandConditions"
+    },
+    "assetSecuritizationServiceConfigurationSetup" : {
+      "assetSecuritizationServiceConfigurationParameter" : "assetSecuritizationServiceConfigurationParameter"
+    },
+    "assetSecuritizationServiceConfigurationSettingDescription" : "assetSecuritizationServiceConfigurationSettingDescription",
+    "assetSecuritizationServiceSubscription" : {
+      "assetSecuritizationServiceSubscriberReference" : "769192",
+      "assetSecuritizationServiceSubscriberAccessProfile" : "assetSecuritizationServiceSubscriberAccessProfile"
+    }
+  },
+  "assetSecuritizationActivationActionTaskRecord" : {}
+}

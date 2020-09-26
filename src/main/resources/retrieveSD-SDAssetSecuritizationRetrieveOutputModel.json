@@ -1,0 +1,39 @@
+{
+  "assetSecuritizationRetrieveActionTaskReference" : "SRATR795161",
+  "assetSecuritizationRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "assetSecuritizationPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "assetSecuritizationActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "assetSecuritizationRetrieveActionTaskRecord" : {},
+  "assetSecuritizationRetrieveActionResponse" : "assetSecuritizationRetrieveActionResponse",
+  "assetSecuritizationOfferedService" : {
+    "assetSecuritizationServiceReference" : "776158",
+    "assetSecuritizationServiceRecord" : {
+      "assetSecuritizationServicePoliciesandGuidelines" : {
+        "assetSecuritizationServicePricingandTerms" : "assetSecuritizationServicePricingandTerms",
+        "assetSecuritizationServiceEligibility" : "assetSecuritizationServiceEligibility",
+        "assetSecuritizationServiceIntendedUses" : "assetSecuritizationServiceIntendedUses"
+      },
+      "assetSecuritizationServiceSchedule" : "assetSecuritizationServiceSchedule",
+      "assetSecuritizationServiceType" : "assetSecuritizationServiceType",
+      "assetSecuritizationServiceDescription" : "assetSecuritizationServiceDescription",
+      "assetSecuritizationServiceVersion" : "assetSecuritizationServiceVersion"
+    }
+  }
+}

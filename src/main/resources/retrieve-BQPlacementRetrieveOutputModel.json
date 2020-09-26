@@ -1,0 +1,26 @@
+{
+  "businessService" : "businessService",
+  "placementInstanceReport" : {
+    "placementInstanceReport" : {},
+    "placementInstanceReportRecord" : {},
+    "placementInstanceReportParameters" : "placementInstanceReportParameters",
+    "placementInstanceReportType" : "placementInstanceReportType"
+  },
+  "placementServiceDescription" : "placementServiceDescription",
+  "placementInstanceAnalysis" : {
+    "placementInstanceAnalysisReport" : {},
+    "placementInstanceAnalysisRecord" : {},
+    "placementInstanceAnalysisReportType" : "placementInstanceAnalysisReportType",
+    "placementInstanceAnalysisParameters" : "placementInstanceAnalysisParameters"
+  },
+  "placementRetrieveActionTaskRecord" : {},
+  "placementServiceType" : "placementServiceType",
+  "placementPostconditions" : "placementPostconditions",
+  "placementTaskSchedule" : "placementTaskSchedule",
+  "placementPreconditions" : "placementPreconditions",
+  "placementServiceWorkProduct" : "placementServiceWorkProduct",
+  "placementServiceName" : "placementServiceName",
+  "placementRetrieveActionTaskReference" : "PRATR716310",
+  "placementRetrieveActionResponse" : "placementRetrieveActionResponse",
+  "placementServiceInputsandOuputs" : "placementServiceInputsandOuputs"
+}

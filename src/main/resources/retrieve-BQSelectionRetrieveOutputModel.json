@@ -1,0 +1,25 @@
+{
+  "businessService" : "businessService",
+  "selectionRetrieveActionTaskReference" : "SRATR773980",
+  "securitizationServiceWorkProduct" : "securitizationServiceWorkProduct",
+  "securitizationPostconditions" : "securitizationPostconditions",
+  "securitizationTaskSchedule" : "securitizationTaskSchedule",
+  "selectionRetrieveActionTaskRecord" : {},
+  "selectionInstanceReport" : {
+    "selectionInstanceReportRecord" : {},
+    "selectionInstanceReportType" : "selectionInstanceReportType",
+    "selectionInstanceReport" : {},
+    "selectionInstanceReportParameters" : "selectionInstanceReportParameters"
+  },
+  "securitizationServiceInputsandOuputs" : "securitizationServiceInputsandOuputs",
+  "securitizationServiceType" : "securitizationServiceType",
+  "selectionInstanceAnalysis" : {
+    "selectionInstanceAnalysisRecord" : {},
+    "selectionInstanceAnalysisReport" : {},
+    "selectionInstanceAnalysisReportType" : "selectionInstanceAnalysisReportType",
+    "selectionInstanceAnalysisParameters" : "selectionInstanceAnalysisParameters"
+  },
+  "securitizationPreconditions" : "securitizationPreconditions",
+  "selectionRetrieveActionResponse" : "selectionRetrieveActionResponse",
+  "securitizationServiceDescription" : "securitizationServiceDescription"
+}

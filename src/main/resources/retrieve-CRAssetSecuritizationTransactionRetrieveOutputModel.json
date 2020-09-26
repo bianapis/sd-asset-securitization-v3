@@ -1,0 +1,20 @@
+{
+  "assetSecuritizationTransactionInstanceAnalysis" : {
+    "assetSecuritizationTransactionInstanceAnalysisData" : "assetSecuritizationTransactionInstanceAnalysisData",
+    "assetSecuritizationTransactionInstanceAnalysisReportType" : "assetSecuritizationTransactionInstanceAnalysisReportType",
+    "assetSecuritizationTransactionInstanceAnalysisReport" : {}
+  },
+  "assetSecuritizationTransactionRetrieveActionResponse" : "assetSecuritizationTransactionRetrieveActionResponse",
+  "assetSecuritizationTransactionType" : "assetSecuritizationTransactionType",
+  "assetSecuritizationTransactionStatus" : "assetSecuritizationTransactionStatus",
+  "assetSecuritizationTransactionRetrieveActionTaskReference" : "ASTRATR797831",
+  "assetSecuritizationTransactionSelectedOption" : "assetSecuritizationTransactionSelectedOption",
+  "assetSecuritizationTransactionInstanceReportRecord" : {
+    "assetSecuritizationTransactionInstanceReportData" : "assetSecuritizationTransactionInstanceReportData",
+    "assetSecuritizationTransactionInstanceReport" : {},
+    "assetSecuritizationTransactionInstanceReportType" : "assetSecuritizationTransactionInstanceReportType"
+  },
+  "assetSecuritizationTransactionParameterType" : "assetSecuritizationTransactionParameterType",
+  "assetSecuritizationTransactionRetrieveActionTaskRecord" : {},
+  "assetSecuritizationTransactionTransactionType" : "assetSecuritizationTransactionTransactionType"
+}

@@ -1,0 +1,15 @@
+{
+  "selectionTaskSchedule" : "selectionTaskSchedule",
+  "assetSelection" : "assetSelection",
+  "selectionAssetSelectionServiceType" : "selectionAssetSelectionServiceType",
+  "securitizationExchangeActionTaskReference" : "SEATR709150",
+  "selectionPostconditions" : "selectionPostconditions",
+  "securitizationExchangeActionTaskRecord" : {},
+  "securitizationExchangeActionResponse" : "securitizationExchangeActionResponse",
+  "selectionPreconditions" : "selectionPreconditions",
+  "selectionAssetSelectionServiceName" : "selectionAssetSelectionServiceName",
+  "selectionAssetSelectionServiceInputsandOuputs" : "selectionAssetSelectionServiceInputsandOuputs",
+  "selectionAssetSelectionServiceDescription" : "selectionAssetSelectionServiceDescription",
+  "selectionAssetSelectionServiceWorkProduct" : "selectionAssetSelectionServiceWorkProduct",
+  "securitizationInstanceStatus" : "securitizationInstanceStatus"
+}

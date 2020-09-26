@@ -1,0 +1,14 @@
+{
+  "selectionTaskSchedule" : "selectionTaskSchedule",
+  "securitizationUpdateActionTaskReference" : "SUATR754265",
+  "selectionPreconditions" : "selectionPreconditions",
+  "assetSelection" : "assetSelection",
+  "selectionAssetSelectionServiceName" : "selectionAssetSelectionServiceName",
+  "selectionAssetSelectionServiceInputsandOuputs" : "selectionAssetSelectionServiceInputsandOuputs",
+  "selectionAssetSelectionServiceDescription" : "selectionAssetSelectionServiceDescription",
+  "securitizationUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "selectionAssetSelectionServiceWorkProduct" : "selectionAssetSelectionServiceWorkProduct",
+  "selectionAssetSelectionServiceType" : "selectionAssetSelectionServiceType",
+  "selectionPostconditions" : "selectionPostconditions"
+}

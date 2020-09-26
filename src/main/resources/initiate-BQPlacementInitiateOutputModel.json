@@ -1,0 +1,15 @@
+{
+  "businessService" : "businessService",
+  "placementInitiateActionRecord" : {},
+  "placementInstanceStatus" : "placementInstanceStatus",
+  "placementServiceDescription" : "placementServiceDescription",
+  "placementServiceType" : "placementServiceType",
+  "placementPostconditions" : "placementPostconditions",
+  "placementTaskSchedule" : "placementTaskSchedule",
+  "placementInstanceReference" : "PIR791254",
+  "placementPreconditions" : "placementPreconditions",
+  "placementServiceWorkProduct" : "placementServiceWorkProduct",
+  "placementServiceName" : "placementServiceName",
+  "placementInitiateActionReference" : "PIAR779988",
+  "placementServiceInputsandOuputs" : "placementServiceInputsandOuputs"
+}

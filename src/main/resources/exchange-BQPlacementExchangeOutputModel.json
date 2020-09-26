@@ -1,0 +1,15 @@
+{
+  "businessService" : "businessService",
+  "placementInstanceStatus" : "placementInstanceStatus",
+  "placementServiceDescription" : "placementServiceDescription",
+  "placementExchangeActionTaskReference" : "PEATR733897",
+  "placementServiceType" : "placementServiceType",
+  "placementPostconditions" : "placementPostconditions",
+  "placementTaskSchedule" : "placementTaskSchedule",
+  "placementExchangeActionResponse" : "placementExchangeActionResponse",
+  "placementPreconditions" : "placementPreconditions",
+  "placementExchangeActionTaskRecord" : {},
+  "placementServiceWorkProduct" : "placementServiceWorkProduct",
+  "placementServiceName" : "placementServiceName",
+  "placementServiceInputsandOuputs" : "placementServiceInputsandOuputs"
+}

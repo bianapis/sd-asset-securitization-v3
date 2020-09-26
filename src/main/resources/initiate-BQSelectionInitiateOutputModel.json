@@ -1,0 +1,14 @@
+{
+  "businessService" : "businessService",
+  "selectionInitiateActionRecord" : {},
+  "selectionInstanceReference" : "SIR777134",
+  "securitizationTaskSchedule" : "securitizationTaskSchedule",
+  "securitizationServiceWorkProduct" : "securitizationServiceWorkProduct",
+  "selectionInitiateActionReference" : "SIAR781503",
+  "securitizationServiceInputsandOuputs" : "securitizationServiceInputsandOuputs",
+  "securitizationServiceType" : "securitizationServiceType",
+  "selectionInstanceStatus" : "selectionInstanceStatus",
+  "securitizationPreconditions" : "securitizationPreconditions",
+  "securitizationPostconditions" : "securitizationPostconditions",
+  "securitizationServiceDescription" : "securitizationServiceDescription"
+}

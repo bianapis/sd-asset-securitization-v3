@@ -1,0 +1,15 @@
+{
+  "selectionTaskSchedule" : "selectionTaskSchedule",
+  "securitizationRequestActionTaskRecord" : {},
+  "assetSelection" : "assetSelection",
+  "selectionAssetSelectionServiceType" : "selectionAssetSelectionServiceType",
+  "selectionPostconditions" : "selectionPostconditions",
+  "requestResponseRecord" : {},
+  "securitizationRequestActionTaskReference" : "SRATR736121",
+  "selectionPreconditions" : "selectionPreconditions",
+  "selectionAssetSelectionServiceName" : "selectionAssetSelectionServiceName",
+  "securitizationRequestRecordReference" : "SRRR712243",
+  "selectionAssetSelectionServiceInputsandOuputs" : "selectionAssetSelectionServiceInputsandOuputs",
+  "selectionAssetSelectionServiceDescription" : "selectionAssetSelectionServiceDescription",
+  "selectionAssetSelectionServiceWorkProduct" : "selectionAssetSelectionServiceWorkProduct"
+}
